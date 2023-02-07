@@ -1,0 +1,12 @@
+.bg-cleaner {
+    --background: #ffc;
+}
+
+.bg-cleaner2 {
+    --background: #ffe;
+}
+
+.logo {
+    font-weight: bold;
+    text-align: center;
+}

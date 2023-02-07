@@ -1,0 +1,15 @@
+.dev {
+    color: red;
+    opacity: 0.5;
+    text-decoration: none;
+}
+
+.dev:hover {
+    opacity: 1;
+}
+
+.dev-bottomRight {
+    position: fixed;
+    right: 50px;
+    bottom: 50px;
+}
